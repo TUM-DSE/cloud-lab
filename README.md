@@ -1,4 +1,4 @@
-# Practical course: Cloud Systems Engineering  (“cloud-lab”) -- SoSe 2022
+# Lab: Cloud Systems Engineering  (“cloud-lab”) -- SoSe 2022
 
 ## Chair website
 
