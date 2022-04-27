@@ -25,12 +25,11 @@ We will be meeting at the following location:
 ## Schedule
 
 
-- **Lecture videos playlist** (released on Mondays before the Q&A): [YouTube playlist](TODO-Link)
-- **Q&A sessions** will take place on for each task: **Thursdays from 10-11am**
+- **Lecture videos playlist** (released on Mondays before Q&As): [YouTube playlist](TODO-Link)
 
 
 
-|         Topic and slides                       |  Q&A Session             |    Task duration           |
+|         Topic and slides                       |  Q&A session (**Thursdays from 10-11am**)            |    Task duration           |
 |------------------------------------------------|--------------------------|----------------------------|
 | [Kick-off meeting](docs/)                      |  28th April |  N/A |       
 | [Task #0: Containers and job deployment](docs/)|  5th May | 2 weeks |
