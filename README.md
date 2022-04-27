@@ -18,7 +18,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 
 ## Meeting place
 
-We will be meeting at the following location:
+We will be meeting at the following location for Q&A sessions:
 
 - Join Zoom Meeting: 
 
