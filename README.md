@@ -7,7 +7,7 @@
 ## Registration
 
 - **Capacity:** We plan to have at most 48 places in this course.
-- **Deadline:** Two weeks after the matching period, we will formally enroll you for the course. If you want to drop out, you will need to inform us before the registration deadline.  
+- **Deadline:** Two weeks after the matching period, we will formally register you in the course. If you want to drop out, please inform us before the registration deadline.  
 
 ## Slack workspace
 
@@ -20,30 +20,23 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 
 We will be meeting at the following location:
 
-- Join Zoom Meeting
+- Join Zoom Meeting: 
 
 ## Schedule
 
-Please carefully go over the following resources to prepare for the seminar:
 
-- [Kick-off meeting](docs/)
-- [Task #0: ](docs/)
-- [Task #1: ](docs/)
-- [Task #0: ](docs/)
-- [Task #0: ](docs/)
+- **Lecture videos playlist** (released on Mondays before the Q&A): [YouTube playlist](TODO-Link)
+- **Q&A sessions** will take place on for each task: **Thursdays from 10-11am**
 
-## Important dates
 
-- **Kick-off meeting:** Thursday, April 28 -- 1:30 – 2:30pm
 
-- **Research presentation (Day 1):** Thursday, June 2 -- 1:30 – 4:00pm
-
-- **Research presentation (Day 2):** Friday, June 3 -- 1:30 – 4:00pm
-
-- **Report due (via HotCRP):** Thursday, June 30 -- 1:30 pm
-
-- **Peer-review due (via HotCRP):** Thursday, July 14 -- 1:30pm
-
+|         Topic and slides                       |  Q&A Session             |    Task duration           |
+|------------------------------------------------|--------------------------|----------------------------|
+| [Kick-off meeting](docs/)                      |  28th April |  N/A |       
+| [Task #0: Containers and job deployment](docs/)|  5th May | 2 weeks |
+| [Task #1: Single-node KVS](docs/)              |  19th May  |  3 weeks |               
+| [Task #2: Distributed KVS](docs/)              |  9th June  | 3 weeks |            
+| [Task #3: Fault-tolerant KVS](docs/)           |  30th July | 3 weeks | 
 
 
 
@@ -51,6 +44,8 @@ Please carefully go over the following resources to prepare for the seminar:
 
 For any further questions/comments, please contact the course organizer(s):
 
-- [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
-- [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
+- First, please ask the questions on our Slack channel. 
+- If its a private question, please send it 
+  - [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
+  - [Emmanouil (Manos) Giortamis](https://dse.in.tum.de/manos-giortamis/)
 
