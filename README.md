@@ -22,7 +22,7 @@ We will be meeting at the following location:
 
 - Join Zoom Meeting
 
-## Important resources
+## Schedule
 
 Please carefully go over the following resources to prepare for the seminar:
 
