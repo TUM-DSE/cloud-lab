@@ -20,7 +20,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 
 We will be meeting at the following location for Q&A sessions:
 
-- Join Zoom Meeting: 
+- Join Zoom Meeting: https://tum-conf.zoom.us/j/68516837406 (Passcode 482722)
 
 ## Schedule and material
 
