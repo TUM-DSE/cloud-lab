@@ -41,10 +41,7 @@ We will be meeting at the following location:
 
 ## Contact
 
-For any further questions/comments, please contact the course organizer(s):
-
-- First, please ask the questions on our Slack channel. 
-- If its a private question, please send it 
+We prefer slack for all communications. For any further questions/comments, please contact the course organizer(s):
   - [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
   - [Emmanouil (Manos) Giortamis](https://dse.in.tum.de/manos-giortamis/)
 
