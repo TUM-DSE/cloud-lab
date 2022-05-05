@@ -25,14 +25,14 @@ We will be meeting at the following location for Q&A sessions:
 ## Schedule and material
 
 
-- **Lecture videos playlist** (released on Mondays before Q&As): [YouTube playlist](TODO-Link)
+- **Lecture videos playlist** (released on Mondays before Q&As): [YouTube playlist](https://tum-conf.zoom.us/rec/share/Df86k9mMthVHrmIqhboLmxnzYAkgyZsBhE4mJ-wh-1baELSfpBIT5qN3qWiRkBV4.Vi5tCkQiWHVHR5iV)
 
 
 
 |         Topic and slides                       |  Q&A session (**Thursdays from 10-11am**)            |    Task duration           |
 |------------------------------------------------|--------------------------|----------------------------|
 | [Kick-off meeting](docs/kick-off.pdf)                      |  28th April |  N/A |       
-| [Task #0: Containers and job deployment](docs/)|  5th May | 2 weeks |
+| [Task #0: Containers and job deployment](docs/task-0-containers.pdf)|  5th May | 2 weeks |
 | [Task #1: Single-node KVS](docs/)              |  19th May  |  3 weeks |               
 | [Task #2: Distributed KVS](docs/)              |  9th June  | 3 weeks |            
 | [Task #3: Fault-tolerant KVS](docs/)           |  30th June | 3 weeks | 
