@@ -25,7 +25,7 @@ We will be meeting at the following location for Q&A sessions:
 ## Schedule and material
 
 
-- **Lecture videos playlist** (released on Mondays before Q&As): [YouTube playlist](https://tum-conf.zoom.us/rec/share/Df86k9mMthVHrmIqhboLmxnzYAkgyZsBhE4mJ-wh-1baELSfpBIT5qN3qWiRkBV4.Vi5tCkQiWHVHR5iV)
+- **Lecture videos playlist** (released on Mondays before Q&As): [YouTube playlist](https://www.youtube.com/watch?v=JPUf37_hB5g&list=PLfKm1-FQibbAKAx6fji1YE6eKsd79RrP-)
 
 
 
