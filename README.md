@@ -33,7 +33,7 @@ We will be meeting at the following location for Q&A sessions:
 |------------------------------------------------|--------------------------|----------------------------|
 | [Kick-off meeting](docs/kick-off.pdf)                      |  28th April |  N/A |       
 | [Task #0: Containers and job deployment](docs/task-0-containers.pdf)|  5th May | 2 weeks |
-| [Task #1: Single-node KVS]((docs/task-1-rocksDB.pdf))              |  19th May  |  3 weeks |               
+| [Task #1: Single-node KVS](docs/task-1-rocksDB.pdf)              |  19th May  |  3 weeks |               
 | [Task #2: Distributed KVS](docs/)              |  9th June  | 3 weeks |            
 | [Task #3: Fault-tolerant KVS](docs/)           |  30th June | 3 weeks | 
 
