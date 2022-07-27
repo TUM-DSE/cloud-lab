@@ -60,7 +60,7 @@ We will be meeting at the following location for Q&A sessions:
 
 | Topic and slides                                                     | Q&A session                              | Task duration |
 |----------------------------------------------------------------------|------------------------------------------|---------------|
-| [Kick-off meeting](docs/kick-off.pdf)                                | TBA                                      | N/A           |
+| [Kick-off meeting](docs/kick-off-ws22.pdf)                           | TBA                                      | N/A           |
 | [Task #0: Containers and job deployment](docs/task-0-containers.pdf) | TBA                                      | 2 weeks       |
 | [Task #1: Single-node KVS](docs/task-1-rocksDB.pdf)                  | TBA                                      | 3 weeks       |
 | [Task #2: Distributed KVS](docs/task-2-sharding.pdf)                 | TBA                                      | 3 weeks       |
