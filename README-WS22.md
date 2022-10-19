@@ -12,7 +12,8 @@
 - Module: IN0012, IN2106, IN2128
 - SWS: 6
 - ECTS Credits: 10
-- Prerequisites: TBA
+- Prerequisites: basic concepts of operating systems, distributed systems, 
+  and systems programming (C, C++, Rust)
 - TUM Online: We will enroll you before the lab starts. Do not forget to
   register in the matching system to obtain a seat in the lab!
 - Course Material: For each programming assignment task, we will cover the
@@ -34,7 +35,7 @@ incremental fashion, where each assignment will build on the previous stage.
 
 ## Registration info
 
-- **Capacity:** We plan to have at most 50 places in this course.
+- **Capacity:** We plan to have at most 60 places in this course.
 - **Registration deadline:** Two weeks after the matching period, we will
   formally register you in the course. If you want to drop out, please inform
   us before the registration deadline.  
@@ -51,20 +52,21 @@ using your official TUM email address.
 
 We will be meeting at the following location for Q&A sessions:
 
-- Join Zoom Meeting: TBA
+- Join Zoom Meeting: [Link](https://tum-conf.zoom.us/j/69569093330)
+  Meeting ID: 695 6909 3330 Passcode: 824318
 
 ## Schedule and material
 
-- **Lecture videos playlist** (released on Mondays before Q&As): [YouTube
-  playlist](https://www.youtube.com/watch?v=JPUf37_hB5g&list=PLfKm1-FQibbAKAx6fji1YE6eKsd79RrP-)
+- **Lecture videos playlist** :
+  - [SoSe 2022 YouTube playlist](https://www.youtube.com/watch?v=JPUf37_hB5g&list=PLfKm1-FQibbAKAx6fji1YE6eKsd79RrP-)
 
-| Topic and slides                                                     | Q&A session                              | Task duration |
+| Topic and slides                                                     | Q&A sessions                             | Task duration |
 |----------------------------------------------------------------------|------------------------------------------|---------------|
-| [Kick-off meeting](docs/kick-off-ws22.pdf)                           | TBA                                      | N/A           |
-| [Task #0: Containers and job deployment](docs/task-0-containers.pdf) | TBA                                      | 2 weeks       |
-| [Task #1: Single-node KVS](docs/task-1-rocksDB.pdf)                  | TBA                                      | 3 weeks       |
-| [Task #2: Distributed KVS](docs/task-2-sharding.pdf)                 | TBA                                      | 3 weeks       |
-| [Task #3: Fault-tolerant KVS](docs/task-3-replication.pdf)           | TBA                                      | 3 weeks       |
+| [Kick-off meeting](docs/WS-22/kick-off.pdf)                          | 18.07                                    | N/A           |
+| [Task #1: Single-node KVS](docs/WS-22/task-1-rocksDB.pdf)            | 20.10, 27.10, 03.11                      | 3 weeks       |
+| [Task #2: Distributed KVS](docs/WS-22/task-2-sharding.pdf)           | TBA                                      | 3 weeks       |
+| [Task #3: Replication](docs/WS-22/task-3-replication.pdf)            | TBA                                      | 3 weeks       |
+| [Task #4: Transactions](docs/WS-22/task-4-transactions.pdf)          | TBA                                      | 3 weeks       |
 
 ## Grades
 
@@ -91,4 +93,5 @@ Grades are computed as follow:
 We *strongly* prefer slack for all communications. For any further
 questions/comments, please contact the course organizer(s):
   - [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
+  - [Dimitrios Stavrakakis](https://dimstav23.github.io/)
   - [Emmanouil (Manos) Giortamis](https://dse.in.tum.de/manos-giortamis/)
