@@ -1,5 +1,7 @@
 # Lab: Cloud Systems Engineering  (“cloud-lab”) -- WiSe 2022
 
+![Cloud lab architecture](architecture.png)
+
 ## Chair website
 
 - The lab is organized by the [Chair of Decentralized Systems
