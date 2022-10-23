@@ -1,6 +1,6 @@
 # Lab: Cloud Systems Engineering  (“cloud-lab”) -- WiSe 2022
 
-![Cloud lab architecture](architecture.png)
+![Cloud lab architecture](cloud_lab.png)
 
 ## Chair website
 
