@@ -61,6 +61,7 @@ We will be meeting at the following location for Q&A sessions:
 
 - **Lecture videos playlist** :
   - [SoSe 2022 YouTube playlist](https://www.youtube.com/watch?v=JPUf37_hB5g&list=PLfKm1-FQibbAKAx6fji1YE6eKsd79RrP-)
+  - [WiSe 2022 YouTube playlist](https://www.youtube.com/playlist?list=PLfKm1-FQibbDBkH6cCrZAgt50oigWNk9n)
 
 | Topic and Q&A slides                                                 | Background                                                                                        |Q&A sessions        | Task duration |
 |----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------|---------------|
