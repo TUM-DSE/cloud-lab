@@ -62,13 +62,13 @@ We will be meeting at the following location for Q&A sessions:
 - **Lecture videos playlist** :
   - [SoSe 2022 YouTube playlist](https://www.youtube.com/watch?v=JPUf37_hB5g&list=PLfKm1-FQibbAKAx6fji1YE6eKsd79RrP-)
 
-| Topic and Q&A slides                                                 | Background slides                                                   |Q&A sessions        | Task duration |
-|----------------------------------------------------------------------|---------------------------------------------------------------------|--------------------|---------------|
-| [Kick-off meeting](docs/WS-22/kick-off.pdf)                          | Not available                                                       |18.07               | N/A           |
-| [Task #1: Single-node KVS](docs/WS-22/task-1-rocksDB.pdf)            | [Single-node KVS](docs/WS-22/task-1-Background_Single-node_KVS.pdf) |20.10, 27.10, 03.11 | 3 weeks       |
-| [Task #2: Distributed KVS](docs/WS-22/task-2-sharding.pdf)           | TBA                                                                 |TBA                 | 3 weeks       |
-| [Task #3: Replication](docs/WS-22/task-3-replication.pdf)            | TBA                                                                 |TBA                 | 3 weeks       |
-| [Task #4: Transactions](docs/WS-22/task-4-transactions.pdf)          | TBA                                                                 |TBA                 | 3 weeks       |
+| Topic and Q&A slides                                                 | Background                                                                                        |Q&A sessions        | Task duration |
+|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------|---------------|
+| [Kick-off meeting](docs/WS-22/kick-off.pdf)                          | Not available                                                                                     |18.07               | N/A           |
+| [Task #1: Single-node KVS](docs/WS-22/task-1-rocksDB.pdf)            | [Video](https://youtu.be/_P_Pf5yxfe4), [Slides](docs/WS-22/task-1-Background_Single-node_KVS.pdf) |20.10, 27.10, 03.11 | 3 weeks       |
+| [Task #2: Distributed KVS](docs/WS-22/task-2-sharding.pdf)           | TBA                                                                                               |TBA                 | 3 weeks       |
+| [Task #3: Replication](docs/WS-22/task-3-replication.pdf)            | TBA                                                                                               |TBA                 | 3 weeks       |
+| [Task #4: Transactions](docs/WS-22/task-4-transactions.pdf)          | TBA                                                                                               |TBA                 | 3 weeks       |
 
 ## Grades
 
