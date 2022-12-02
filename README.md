@@ -68,8 +68,8 @@ We will be meeting at the following location for Q&A sessions:
 | [Kick-off meeting](docs/WS-22/kick-off.pdf)                          | Not available                                                                                     |18.07               | N/A           | N/A                      |
 | [Task #1: Single-node KVS](docs/WS-22/task-1-rocksDB.pdf)            | [Video](https://youtu.be/_P_Pf5yxfe4), [Slides](docs/WS-22/task-1-Background_Single-node_KVS.pdf) |20.10, 27.10, 03.11 | 3 weeks       | Nov 10, 2022, 23:00 CEST |
 | [Task #2: Distributed KVS](docs/WS-22/task-2-Background_Distributed_KVS.pdf)| [Video](https://youtu.be/HmrIsIoDkhQ), [Slides](docs/WS-22/task-2-Background_Distributed_KVS.pdf)|10.11, 17.11, 24.11| 3 weeks  | Dec 01, 2022, 23:00 CEST |
-| [Task #3: Replication](docs/WS-22/task-3-replication.pdf)            | TBA                                                                                               |TBA                 | 3 weeks       |                          |
-| [Task #4: Transactions](docs/WS-22/task-4-transactions.pdf)          | TBA                                                                                               |TBA                 | 3 weeks       |                          |
+| Task #3: Replication | TBA          |08.12, 15.12, 22.12 | 3 weeks       | Jan 12, 2023, 23:00 CEST                          |
+| Task #4: Transactions| TBA          |12.01, 19.01, 26.01 | 3 weeks       | Feb 02, 2023, 23:00 CEST                          |
 
 ## Grades
 
